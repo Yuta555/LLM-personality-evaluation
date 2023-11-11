@@ -7,7 +7,7 @@ Preprocess original dataset. (Kaggle MBTI data) (preprocess_data.py)
 - Limit the number of tweets for each datapoint.
 - Index and format input text data.
 
-**How to create dataset**
+**How to create processed dataset** <br />
 You just run the code below on terminal:
 ```
 # This is the case using 25 tweets
