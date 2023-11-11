@@ -7,11 +7,14 @@ Learn the way to run your code:
 
 Caution: This might not be the only way or the best way, but just the way I passed to meet the purpose above.
 
+
+
 ## Step 0: (Optional) Request quotas
 You need to request quotas for multiple GPUs if you haven't done before.
 1. Refer to [this page](https://cloud.google.com/compute/resource-usage) for quotas.
     - Type of GPU and region you request is up to you.
     - E.g. I did four L4, in us-east region. (My quotas request for 8 L4 was rejected.)
+
 
 
 ## Step 1: Go to Vertex AI and create an instance (then VM will be created automatically)
@@ -25,6 +28,8 @@ You need to request quotas for multiple GPUs if you haven't done before.
 5. You can set as you want in other tab.
     - Environment: not sure which is the best, but I chose "Python 3 (with Intel MKL and CUDA 11.8)"
 6. Push "CREATE" button at the bottom of the page.
+
+
 
 ## Step 2: Access the Jupyter lab environment on the instance.
 1. If you successfully created an instance, you just click "OPEN JUPYTERLAB" to access Jupyter Lab environment.
