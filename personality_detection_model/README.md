@@ -44,6 +44,8 @@ Implement fine-tuning with LoRA on train/val dataset.
     ```
     - Omit dimension_id if 16-class model. Add 0 - 3 if a binary classification model.
     - Check and modify the python file for more detailed settings. For instance, we set gradient_checkpointing to reduce the GPU memory usage by fine-tuning so that the model can be trained on single L4 GPU (24GB memory), whereas it makes training speed slower.
+ 
+You can see the results of fine-tuning such as train/eval loass and eval accuracy for each model [here](https://api.wandb.ai/links/ya2488/mkq940ni).
 
 ## 3. Prediction/Evaluation
 Perform inference with fine-tuned model and evaluate model performance with accuracy score on test dataset.
