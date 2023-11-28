@@ -33,7 +33,10 @@ You need to request quotas for multiple GPUs if you haven't done before.
 
 ## Step 2: Access the Jupyter lab environment on the instance.
 1. If you successfully created an instance, you just click "OPEN JUPYTERLAB" to access Jupyter Lab environment.
-2. Nothing you have to do. Just write and run your code with multiple GPUs.
+2. You can start coding with the default environment, execept for the following error.
+    - Google permission error occurred when imporing peft
+        -> https://github.com/TimDettmers/bitsandbytes/issues/620
+    - Installed transformers with version==4.34.1 since got error when setting all linear layers as target_modules for LoRA.
 
-* If you want to confirm the GPU devices, command "nvidia-smi" on terminal or "!nvidia-smi" on notebook. 
+* If you want to confirm the status of GPU devices, command "nvidia-smi" on terminal or "!nvidia-smi" on notebook. 
 
