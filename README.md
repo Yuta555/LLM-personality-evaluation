@@ -4,8 +4,8 @@
 - Mouwei Lin lm3756 (Team captain)
 - Frank Li zl3204
 - Linhao Yu ly2590
-- Yuta Adachi ya2488
 - Xingye Feng xf2248
+- Yuta Adachi ya2488
 
 Emails  &lt;UNI&gt; @ columbia.edu
 
