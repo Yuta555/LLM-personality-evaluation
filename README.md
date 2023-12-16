@@ -39,6 +39,10 @@ Our results include the following:
 ├───data_preprocess
 │   ├───data
 │   │       category.pkl
+│   │       comment_noreplacement.xlsx
+│   │       comment_prompt.csv
+│   │       comment_responses.csv
+│   │       comments_withreplacement.xlsx
 │   │       news.xlsx
 │   │       summary.pkl
 │   │       tweets.pkl
@@ -47,6 +51,7 @@ Our results include the following:
 │   │
 │   └───.ipynb_checkpoints
 │           LLama2_summarizer.ipynb
+│           Tweet_Comments_Responses.ipynb
 │           newsscrap.ipynb
 │           tweet_personality_detection.ipynb
 │           news_summary_and_category_and_generate_tweets.ipynb
