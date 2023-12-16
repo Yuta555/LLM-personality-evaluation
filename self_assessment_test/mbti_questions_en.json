@@ -1,0 +1,467 @@
+{
+    "1": {
+        "question": "When you are going out for the whole day, you will:\nA. Plan what to do and when to do it\nB. Not make plans, just go with the flow",
+        "A": "J",
+        "B": "P"
+    },
+    "2": {
+        "question": "How do you see yourself? \nA. As someone who is spontaneous \nB. As someone who is orderly and systematic",
+        "A": "P",
+        "B": "J"
+    },
+    "3": {
+        "question": "If you were a teacher, which course would you choose to teach:\nA. Fact-based course\nB. Theory-based course",
+        "A": "S",
+        "B": "N"
+    },
+    "4": {
+        "question": "You are usually a\nA. sociable person\nB. quiet and reserved person",
+        "A": "E",
+        "B": "I"
+    },
+    "5": {
+        "question": "Generally speaking, who do you get along with better? \nA. Imaginative people \nB. Practical people",
+        "A": "N",
+        "B": "S"
+    },
+    "6": {
+        "question": "What do you tend to do most often?\nA. Let your emotions dominate your reasoning\nB. Let your reasoning dominate your emotions",
+        "A": "F",
+        "B": "T"
+    },
+    "7": {
+        "question": "In dealing with many things, you would prefer: \nA. Acting emotionally \nB. Acting logically",
+        "A": "P",
+        "B": "J"
+    },
+    "8": {
+        "question": "You are more inclined to:\nA. Easy for others to understand\nB. Relatively difficult for others to understand",
+        "A": "E",
+        "B": "I"
+    },
+    "9": {
+        "question": "Strictly following the plan will make you feel: \nA. Satisfactory \nB. Constrained",
+        "A": "J",
+        "B": "P"
+    },
+    "10": {
+        "question": "When you have a job that is very important to you, you will like:\nA. Carefully plan and organize before starting\nB. Identify necessary steps during the work",
+        "A": "J",
+        "B": "P"
+    },
+    "11": {
+        "question": "In most cases, you would choose:\nA. Go with the flow\nB. Stick to the plan",
+        "A": "P",
+        "B": "J"
+    },
+    "12": {
+        "question": "Most people think you are a\nA. person who values privacy\nB. very open and frank person",
+        "A": "I",
+        "B": "E"
+    },
+    "13": {
+        "question": "You would rather be seen as a\nA. practical person\nB. clever person",
+        "A": "S",
+        "B": "N"
+    },
+    "14": {
+        "question": "Among a large group of people, it is usually\nA. you introduce everyone to each other\nB. others introduce you",
+        "A": "E",
+        "B": "I"
+    },
+    "15": {
+        "question": "Whom will you be friends with?\nA. Those who often come up with new ideas\nB. Those who are down-to-earth",
+        "A": "N",
+        "B": "S"
+    },
+    "16": {
+        "question": "You tend to\nA. value emotions more than logic\nB. value logic more than emotions",
+        "A": "F",
+        "B": "T"
+    },
+    "17": {
+        "question": "You prefer\nA. to watch how things develop before making plans\nB. to make plans very early",
+        "A": "P",
+        "B": "J"
+    },
+    "18": {
+        "question": "You like to spend a lot of time\nA. alone\nB. with others",
+        "A": "I",
+        "B": "E"
+    },
+    "19": {
+        "question": "When you are with many people,\nA. it can increase your vitality\nB. often it can wear you out.",
+        "A": "E",
+        "B": "I"
+    },
+    "20": {
+        "question": "You prefer\nA. to arrange appointments, social gatherings, etc. early\nB. to be carefree and do whatever seems fun at the time",
+        "A": "J",
+        "B": "P"
+    },
+    "21": {
+        "question": "When planning a trip, do you prefer\nA. Acting based on the day's feelings most of the time\nB. Knowing in advance what you will be doing most of the time",
+        "A": "P",
+        "B": "J"
+    },
+    "22": {
+        "question": "At social gatherings, do you \nA. sometimes feel depressed\nB. often enjoy yourself?",
+        "A": "I",
+        "B": "E"
+    },
+    "23": {
+        "question": "You usually\nA. easily get along with others\nB. have difficulty getting along with others",
+        "A": "E",
+        "B": "I"
+    },
+    "24": {
+        "question": "Which type of person would attract you more?\nA. Someone who is quick-witted and very intelligent\nB. Someone who is practical and knowledgeable",
+        "A": "N",
+        "B": "S"
+    },
+    "25": {
+        "question": "In your daily work, you will\nA. work against the clock in urgent situations\nB. arrange your work plan before working to avoid excessive pressure",
+        "A": "P",
+        "B": "J"
+    },
+    "26": {
+        "question": "You think others generally\nA. take a long time to get to know you\nB. get to know you in a short time",
+        "A": "I",
+        "B": "E"
+    },
+    "27": {
+        "question": "Which of the following two words do you prefer?\nA. Emphasizing privacy\nB. Frank and open",
+        "A": "I",
+        "B": "E"
+    },
+    "28": {
+        "question": "Which of the following two words do you prefer?\nA. Prearranged\nB. Unplanned",
+        "A": "J",
+        "B": "P"
+    },
+    "29": {
+        "question": "Which of the following two words do you prefer?\nA. Abstract\nB. Concrete",
+        "A": "N",
+        "B": "S"
+    },
+    "30": {
+        "question": "Which of the following two words do you prefer?\nA. Gentle\nB. Resolute",
+        "A": "F",
+        "B": "T"
+    },
+    "31": {
+        "question": "Which of the following two words do you prefer?\nA. Thinking\nB. Feeling",
+        "A": "T",
+        "B": "F"
+    },
+    "32": {
+        "question": "Which of the following two words do you prefer?\nA. Fact\nB. Idea",
+        "A": "S",
+        "B": "N"
+    },
+    "33": {
+        "question": "Which of the following two words do you prefer?\nA. Impulsive\nB. Decisive",
+        "A": "P",
+        "B": "J"
+    },
+    "34": {
+        "question": "Which of the following two words do you prefer?\nA. Passionate\nB. Quiet",
+        "A": "E",
+        "B": "I"
+    },
+    "35": {
+        "question": "Which of the following two words do you prefer?\nA. Quiet\nB. Outgoing",
+        "A": "I",
+        "B": "E"
+    },
+    "36": {
+        "question": "Which of the following two words do you prefer?\nA. Planned\nB. Unrestrained",
+        "A": "J",
+        "B": "P"
+    },
+    "37": {
+        "question": "Which of the following two words do you prefer?\nA. Theory\nB. Affirmative",
+        "A": "N",
+        "B": "S"
+    },
+    "38": {
+        "question": "Which of the following two words do you prefer?\nA. Sensitive\nB. Fair",
+        "A": "F",
+        "B": "T"
+    },
+    "39": {
+        "question": "Which of the following two words do you prefer?\nA. Convincing\nB. Touching",
+        "A": "T",
+        "B": "F"
+    },
+    "40": {
+        "question": "Which of the following two words do you prefer?\nA. Statement\nB. Concept",
+        "A": "S",
+        "B": "N"
+    },
+    "41": {
+        "question": "Which of the following two words do you prefer?\nA. Unrestricted\nB. Prearranged",
+        "A": "P",
+        "B": "J"
+    },
+    "42": {
+        "question": "Which of the following two words do you prefer?\nA. Reserved\nB. Talkative",
+        "A": "I",
+        "B": "E"
+    },
+    "43": {
+        "question": "Which of the following two words do you prefer?\nA. Methodical\nB. Unconstrained",
+        "A": "J",
+        "B": "P"
+    },
+    "44": {
+        "question": "Which of the following two words do you prefer?\nA. Innovation\nB. Practical",
+        "A": "N",
+        "B": "S"
+    },
+    "45": {
+        "question": "Which of the following two words do you prefer?\nA. Sympathy\nB. Visionary",
+        "A": "F",
+        "B": "T"
+    },
+    "46": {
+        "question": "Which of the following two words do you prefer?\nA.Benefit\nB.Blessing",
+        "A": "T",
+        "B": "F"
+    },
+    "47": {
+        "question": "Which of the following two words do you prefer?\nA. Practical\nB. Theoretical",
+        "A": "S",
+        "B": "N"
+    },
+    "48": {
+        "question": "Which of the following two phrases do you prefer?\nA. Not many friends\nB. Many friends",
+        "A": "I",
+        "B": "E"
+    },
+    "49": {
+        "question": "Which of the following two words do you prefer?\nA. Systematic\nB. Improvisational",
+        "A": "J",
+        "B": "P"
+    },
+    "50": {
+        "question": "Which of the following two words do you prefer?\nA. Imaginative\nB. Pragmatic",
+        "A": "N",
+        "B": "S"
+    },
+    "51": {
+        "question": "Which of the following two words do you prefer?\nA. Warm and friendly\nB. Objective",
+        "A": "F",
+        "B": "T"
+    },
+    "52": {
+        "question": "Which of the following two words do you prefer?\nA. Objective\nB. Passionate",
+        "A": "T",
+        "B": "F"
+    },
+    "53": {
+        "question": "Which of the following two words do you prefer?\nA. Build\nB. Invent",
+        "A": "S",
+        "B": "N"
+    },
+    "54": {
+        "question": "Which of the following two words do you prefer?\nA. Quiet\nB. Sociable",
+        "A": "I",
+        "B": "E"
+    },
+    "55": {
+        "question": "Which of the following two words do you prefer?\nA. Theory\nB. Fact",
+        "A": "N",
+        "B": "S"
+    },
+    "56": {
+        "question": "Which of the following two words do you prefer?\nA. Empathy\nB. Logical",
+        "A": "F",
+        "B": "T"
+    },
+    "57": {
+        "question": "Which of the following two words do you prefer?\nA. Analytical\nB. Sentimental",
+        "A": "T",
+        "B": "F"
+    },
+    "58": {
+        "question": "Which of the following two words do you prefer?\nA. Reasonable and fair\nB. Fascinating",
+        "A": "S",
+        "B": "N"
+    },
+    "59": {
+        "question": "When you need to complete a big project within a week, at the beginning, will you\nA. list the different tasks to be done in order\nB. start working immediately",
+        "A": "J",
+        "B": "P"
+    },
+    "60": {
+        "question": "In social situations, you often feel\nA. It's difficult to open up and maintain a conversation with certain people\nB. You can easily have long conversations with most people",
+        "A": "I",
+        "B": "E"
+    },
+    "61": {
+        "question": "When it comes to something that many people have done, do you prefer\nA. Doing it according to the previously accepted method\nB. Doing it according to your own ideas",
+        "A": "S",
+        "B": "N"
+    },
+    "62": {
+        "question": "Can you tell someone you just met about your interests?\nA. Yes, right away\nB. Only after they truly understand you",
+        "A": "E",
+        "B": "I"
+    },
+    "63": {
+        "question": "Your preferred subject is usually\nA. teaching concepts and principles\nB. teaching facts and data",
+        "A": "N",
+        "B": "S"
+    },
+    "64": {
+        "question": "Which type of person is more likely to receive your praise?\nA. Consistently emotional person\nB. Consistently rational person",
+        "A": "F",
+        "B": "T"
+    },
+    "65": {
+        "question": "You think that following a schedule\nA. is necessary at times, but generally you don't like to do so\nB. is helpful most of the time and is something you enjoy doing",
+        "A": "P",
+        "B": "J"
+    },
+    "66": {
+        "question": "When you are with a group of people, you usually prefer to\nA. have individual conversations with people you know well\nB. participate in conversations with everyone",
+        "A": "I",
+        "B": "E"
+    },
+    "67": {
+        "question": "At social gatherings, which do you spend more time? \nA. speaking \nB. listening",
+        "A": "E",
+        "B": "I"
+    },
+    "68": {
+        "question": "Make a list of things to do over the weekend, this idea makes you feel\nA. appealing\nB. not very interested",
+        "A": "J",
+        "B": "P"
+    },
+    "69": {
+        "question": "Which type of person is more likely to receive your praise?\nA. Capable\nB. Compassionate",
+        "A": "T",
+        "B": "F"
+    },
+    "70": {
+        "question": "You usually prefer\nA. to plan your social appointments in advance\nB. to do things on a whim",
+        "A": "J",
+        "B": "P"
+    },
+    "71": {
+        "question": "Overall, when it comes to doing a large assignment, would you choose\nA. to think about what to do while working\nB. to first break down the work into detailed steps before starting",
+        "A": "P",
+        "B": "J"
+    },
+    "72": {
+        "question": "Can you chat endlessly with people\nA. Only with people who share your interests\nB. Almost anyone",
+        "A": "I",
+        "B": "E"
+    },
+    "73": {
+        "question": "When doing something, do you\nA. follow some proven effective methods\nB. analyze the problems with existing methods and try to solve these unresolved difficulties",
+        "A": "S",
+        "B": "N"
+    },
+    "74": {
+        "question": "When you are reading, do you prefer\nA. unique or innovative ways of expression\nB. straightforward and objective ways of expression",
+        "A": "N",
+        "B": "S"
+    },
+    "75": {
+        "question": "What kind of person do you hope your boss (or teacher) to be?\nA. Good-tempered, but inconsistent\nB. Strict with people, but organized",
+        "A": "T",
+        "B": "N"
+    },
+    "76": {
+        "question": "You mostly do things\nA. according to your mood on the day\nB. according to the planned schedule",
+        "A": "P",
+        "B": "J"
+    },
+    "77": {
+        "question": "Are you able to \nA. converse calmly with anyone as needed, or \nB. only speak freely with certain people or in certain situations",
+        "A": "E",
+        "B": "I"
+    },
+    "78": {
+        "question": "When making a decision, what do you think is more important:\nA. Considering the truth of the matter\nB. Considering the feelings and opinions of others",
+        "A": "T",
+        "B": "F"
+    },
+    "79": {
+        "question": "Which of the following two words do you prefer?\nA. Imaginary\nB. Realistic",
+        "A": "N",
+        "B": "S"
+    },
+    "80": {
+        "question": "Which of the following two words do you prefer?\nA. Kind and generous\nB. Resolute",
+        "A": "F",
+        "B": "T"
+    },
+    "81": {
+        "question": "Which of the following two words do you prefer?\nA. Just\nB. Caring",
+        "A": "T",
+        "B": "F"
+    },
+    "82": {
+        "question": "Which of the following two words do you prefer?\nA. Production\nB. Design",
+        "A": "S",
+        "B": "N"
+    },
+    "83": {
+        "question": "Which of the following two words do you prefer?\nA. Possibility\nB. Necessity",
+        "A": "N",
+        "B": "S"
+    },
+    "84": {
+        "question": "Which of the following two words do you prefer?\nA. Gentleness\nB. Strength",
+        "A": "F",
+        "B": "T"
+    },
+    "85": {
+        "question": "Which of the following two words do you prefer?\nA. Practical\nB. Sentimental",
+        "A": "T",
+        "B": "F"
+    },
+    "86": {
+        "question": "Which of the following two words do you prefer?\nA. Manufacture\nB. Create",
+        "A": "S",
+        "B": "N"
+    },
+    "87": {
+        "question": "Which of the following two words do you prefer?\nA. New and innovative\nB. Familiar and known",
+        "A": "N",
+        "B": "S"
+    },
+    "88": {
+        "question": "Which of the following two words do you prefer?\nA. Sympathy\nB. Analysis",
+        "A": "F",
+        "B": "T"
+    },
+    "89": {
+        "question": "Which of the following two words do you prefer?\nA. Stick to one's own opinions\nB. Gentle and loving",
+        "A": "T",
+        "B": "F"
+    },
+    "90": {
+        "question": "Which of the following two words do you prefer?\nA. Specific\nB. Abstract",
+        "A": "S",
+        "B": "N"
+    },
+    "91": {
+        "question": "Which of the following two words do you prefer?\nA. Wholehearted dedication\nB. Determined",
+        "A": "F",
+        "B": "T"
+    },
+    "92": {
+        "question": "Which of the following two words do you prefer?\nA. capable\nB. kind",
+        "A": "T",
+        "B": "F"
+    },
+    "93": {
+        "question": "Which of the following two words do you prefer?\nA. Practical\nB. Innovative",
+        "A": "S",
+        "B": "N"
+    }
+}
