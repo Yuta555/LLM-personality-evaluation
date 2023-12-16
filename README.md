@@ -19,7 +19,9 @@ Our project has a dual focus on personality detection in LLMs such as ChatGPT. I
 
 Our results involve below:
 - Our fine-tuned model outperformed models from previous studies, achieving an impressive 93.3% accuracy and 91.1% F1 score in MBTI classification. \
-  <img align="center" width="439" alt="image" src="https://github.com/Yuta555/LLM-personality-evaluation/assets/59324565/3610cef1-2e6a-43f3-a102-fcfee5792c62">
+<p align="center" width="100%">
+    <img align="center" width="439" alt="image" src="https://github.com/Yuta555/LLM-personality-evaluation/assets/59324565/3610cef1-2e6a-43f3-a102-fcfee5792c62">
+</p>p
 - The self-assessment and personality detection tests both consistently identified ChatGPT as predominantly exhibiting the INFJ personality type, with detailed trait scoring aligning closely between the two independent assessments.
 - GPT-3.5's responses to OCEAN and MBTI tests lean towards neutral, with direct queries showing a wider response range than indirect ones, suggesting prompt structure impacts responses and a potential inherent bias in the LLM's personality profile.
 
