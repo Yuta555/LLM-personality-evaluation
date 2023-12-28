@@ -61,3 +61,5 @@ Perform inference with fine-tuned model and evaluate model performance with accu
 
 - You can use template notebook for prediction using fine-tuned models.
     - prediction_model_template.ipynb
+    - You can see the model weights on Hugging Face. We uploaded those of each dimension.
+        - [dim-1st](https://huggingface.co/Yuta555/Llama-2-7b-MBTI-binary-clf-1st/tree/main)/[dim-2nd](https://huggingface.co/Yuta555/Llama-2-7b-MBTI-binary-clf-2nd/tree/main)/[dim-3rd](https://huggingface.co/Yuta555/Llama-2-7b-MBTI-binary-clf-3rd/tree/main)/[dim-4th](https://huggingface.co/Yuta555/Llama-2-7b-MBTI-binary-clf-4th/tree/main)
